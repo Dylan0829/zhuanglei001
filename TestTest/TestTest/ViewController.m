@@ -23,4 +23,9 @@
     
 }
 
+-(void)touchesMoved:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    
+}
+
+
 @end
